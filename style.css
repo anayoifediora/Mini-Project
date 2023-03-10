@@ -1,0 +1,16 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.menu {
+    display:inline-block;
+    font-size:20px;
+    color: white;
+    margin: 0px 10px;
+    position:relative;
+    left: 1300px;
+    }
+header {
+    background-color: lightcoral;
+    height:30px;  
+     
+}
